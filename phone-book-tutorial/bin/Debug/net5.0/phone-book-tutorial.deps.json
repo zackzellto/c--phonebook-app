@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "phone-book-tutorial/1.0.0": {
+        "runtime": {
+          "phone-book-tutorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "phone-book-tutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

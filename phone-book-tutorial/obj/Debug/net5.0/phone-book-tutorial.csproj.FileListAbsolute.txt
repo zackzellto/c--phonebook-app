@@ -1,0 +1,15 @@
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.csproj.AssemblyReference.cache
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.AssemblyInfoInputs.cache
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.AssemblyInfo.cs
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.csproj.CoreCompileInputs.cache
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/phone-book-tutorial.deps.json
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/phone-book-tutorial.runtimeconfig.json
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/phone-book-tutorial.runtimeconfig.dev.json
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/phone-book-tutorial.dll
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/ref/phone-book-tutorial.dll
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/bin/Debug/net5.0/phone-book-tutorial.pdb
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.dll
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/ref/phone-book-tutorial.dll
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.pdb
+/Users/zacharyzellto/Desktop/Software Projects/C# Phone Book Tutorial/phone-book-tutorial/phone-book-tutorial/obj/Debug/net5.0/phone-book-tutorial.genruntimeconfig.cache
